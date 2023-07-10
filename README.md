@@ -29,4 +29,4 @@ A aplicação será iniciada em ```http://localhost:3000```
 
 ## Deploy 🚀
 
-[Link Aplicação](https://teste)
+[Link Aplicação](https://portifolio-react-ioasyvp5c-brunokauaal.vercel.app)
