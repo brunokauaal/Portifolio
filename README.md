@@ -4,7 +4,7 @@ Bem-Vindo 😊
 
 ## Descrição
 
-Essa aplicação foi criada para apresentar o meu portifolio.
+ 
 
 ## Tecnologias 💻
 
