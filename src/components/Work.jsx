@@ -1,6 +1,6 @@
 import React from 'react';
 import WorkImg from '../assets/workImg.jpeg';
-import ImgBlog from '../assets/imgblog.jpg';
+import ImageBlog2 from '../assets/imageblog2.png';
 import realEstate from '../assets/realestate.jpg';
 import { FaGithub, FaRegPlayCircle} from 'react-icons/fa';
 
@@ -20,7 +20,7 @@ const Work = () => {
 
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${ImgBlog})`}}
+            style={{ backgroundImage: `url(${ImageBlog2})`}}
             className='shadow-lg shadow-[#294380] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
