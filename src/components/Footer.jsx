@@ -18,7 +18,7 @@ const Footer = () => {
           <li>
             <a
                 className='text-sm flex justify-between items-center w-full text-gray-300 transition ease-in-out delay-150 hover:-translate-y-1 duration-300'
-                href='https://drive.google.com/file/d/1BSRwIrxgP19tBlg3sIETVZqBQVa8YsSA/view?usp=sharing'
+                href='https://drive.google.com/file/d/1WDqvjOllIGbNqngnoSXrLqFBLG8c9fSr/view?usp=sharing'
                 target="_blank" 
                 rel="noopener noreferrer"
                 style={{marginLeft: '1em'}}
