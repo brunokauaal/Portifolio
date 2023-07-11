@@ -29,8 +29,8 @@ const Work = () => {
                 Em breve 
               </span>
               <div className='pt-8 text-center flex justify-center items-center'>
-                <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='https://react-blog-pessoal-xi.vercel.app/'>
-                  <button className='flex justify-center items-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                <a  target='blank' className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='https://react-blog-pessoal-xi.vercel.app/'>
+                  <button  className='flex justify-center items-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     <FaRegPlayCircle style={{marginRight:'.75em'}} size={25} />
                     Demo
                   </button>                  
