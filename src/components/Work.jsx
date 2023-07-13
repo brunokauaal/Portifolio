@@ -1,6 +1,7 @@
 import React from 'react';
 import WorkImg from '../assets/workImg.jpeg';
 import ImageBlog2 from '../assets/imageblog2.png';
+import ImgGecko from '../assets/imgGecko.png';
 import realEstate from '../assets/realestate.jpg';
 import { FaGithub, FaRegPlayCircle} from 'react-icons/fa';
 
@@ -35,7 +36,7 @@ const Work = () => {
                     Demo
                   </button>                  
                 </a>
-                <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='/'>
+                <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='https://github.com/brunokauaal/React_Blog_Pessoal' target='blank'>
                   <button className='flex justify-center items-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     <FaGithub style={{marginRight:'.75em'}} size={25} />
                     Code
@@ -45,7 +46,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${realEstate})` }}
+            style={{ backgroundImage: `url(${ImgGecko})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -54,13 +55,13 @@ const Work = () => {
                 Em breve 
               </span>
               <div className='pt-8 text-center flex justify-center items-center'>
-              <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='/'>
+              <a   className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='https://projetogecko.vercel.app/' target='blank'>
                   <button className='flex justify-center items-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     <FaRegPlayCircle style={{marginRight:'.75em'}} size={25} />
                     Demo
                   </button>                    
                 </a>
-                <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='/'>
+                <a className='flex justify-center items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:text-zinc-50 duration-300'  href='https://github.com/orgs/ProjetoGecko/repositories' target='blank'>
                   <button className='flex justify-center items-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     <FaGithub style={{marginRight:'.75em'}} size={25} />
                     Code
