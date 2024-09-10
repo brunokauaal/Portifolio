@@ -20,7 +20,7 @@ const About = () => {
             </div>
             <div className='py-1'>
               <p>       
-                Sou uma profissional de tecnologia apaixonado por aprender e crescer. Tenho 18 anos e moro em São Paulo, atualmente  Recem formado em Java por meio do bootcamp da Generation.
+                Sou uma profissional de tecnologia apaixonado por aprender e crescer. Tenho 19 anos e moro em São Paulo, atualmente  Recem formado em Java por meio do bootcamp da Generation.
 
               </p>
               <br/>
